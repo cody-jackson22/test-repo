@@ -1,0 +1,2 @@
+This is just a few notes for my Git-Hub SetUp
+Eventually it will be a cool-repo!
